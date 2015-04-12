@@ -1,6 +1,5 @@
 #This script assumes that dataset is located in your working directory
 #The file household_power_consumption.txt is download and extracted from archive
-#
 #The script creates the PLOT 1 with HISTOGRAM for the variable GLOBAL ACTIVE POWER
 
 #Loading Data
