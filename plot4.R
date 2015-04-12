@@ -1,6 +1,5 @@
 #This script assumes that dataset is located in your working directory
 #The file household_power_consumption.txt is download and extracted from archive
-#Environment is Sys.setlocale("LC_ALL","English")
 #The script creates the PLOT 2 with LINE for the variables SUB METERING (1, 2 and 3) and dimension DATE and TIME
 
 #Loading Data
